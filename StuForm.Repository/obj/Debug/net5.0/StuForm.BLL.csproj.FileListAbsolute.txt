@@ -1,0 +1,15 @@
+D:\desktop\innovation task\StuForm.Repository\bin\Debug\net5.0\StuForm.BLL.deps.json
+D:\desktop\innovation task\StuForm.Repository\bin\Debug\net5.0\StuForm.BLL.dll
+D:\desktop\innovation task\StuForm.Repository\bin\Debug\net5.0\StuForm.BLL.pdb
+D:\desktop\innovation task\StuForm.Repository\bin\Debug\net5.0\StuForm.DAL.dll
+D:\desktop\innovation task\StuForm.Repository\bin\Debug\net5.0\StuForm.DAL.pdb
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\StuForm.BLL.csproj.AssemblyReference.cache
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\StuForm.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\StuForm.BLL.AssemblyInfoInputs.cache
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\StuForm.BLL.AssemblyInfo.cs
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\StuForm.BLL.csproj.CoreCompileInputs.cache
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\StuForm..00B84E06.Up2Date
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\StuForm.BLL.dll
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\refint\StuForm.BLL.dll
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\StuForm.BLL.pdb
+D:\desktop\innovation task\StuForm.Repository\obj\Debug\net5.0\ref\StuForm.BLL.dll

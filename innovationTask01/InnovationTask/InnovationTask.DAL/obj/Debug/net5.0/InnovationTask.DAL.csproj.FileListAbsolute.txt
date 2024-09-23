@@ -1,0 +1,15 @@
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\bin\Debug\net5.0\InnovationTask.DAL.deps.json
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\bin\Debug\net5.0\InnovationTask.DAL.dll
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\bin\Debug\net5.0\InnovationTask.DAL.pdb
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\InnovationTask.DAL.csproj.AssemblyReference.cache
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\InnovationTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\InnovationTask.DAL.AssemblyInfoInputs.cache
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\InnovationTask.DAL.AssemblyInfo.cs
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\InnovationTask.DAL.csproj.CoreCompileInputs.cache
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\InnovationTask.DAL.dll
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\refint\InnovationTask.DAL.dll
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\InnovationTask.DAL.pdb
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\ref\InnovationTask.DAL.dll
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\bin\Debug\net5.0\InnovationTask.DAL.runtimeconfig.json
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\bin\Debug\net5.0\InnovationTask.DAL.runtimeconfig.dev.json
+D:\desktop\innovation task\innovationTask01\InnovationTask\InnovationTask.DAL\obj\Debug\net5.0\InnovationTask.DAL.genruntimeconfig.cache

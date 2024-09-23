@@ -1,0 +1,15 @@
+D:\desktop\innovation task\Form.core\bin\Debug\net5.0\StuForm.DAL.deps.json
+D:\desktop\innovation task\Form.core\bin\Debug\net5.0\StuForm.DAL.dll
+D:\desktop\innovation task\Form.core\bin\Debug\net5.0\StuForm.DAL.pdb
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\StuForm.DAL.csproj.AssemblyReference.cache
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\StuForm.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\StuForm.DAL.AssemblyInfoInputs.cache
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\StuForm.DAL.AssemblyInfo.cs
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\StuForm.DAL.csproj.CoreCompileInputs.cache
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\StuForm.DAL.dll
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\refint\StuForm.DAL.dll
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\StuForm.DAL.pdb
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\ref\StuForm.DAL.dll
+D:\desktop\innovation task\Form.core\bin\Debug\net5.0\StuForm.DAL.runtimeconfig.json
+D:\desktop\innovation task\Form.core\bin\Debug\net5.0\StuForm.DAL.runtimeconfig.dev.json
+D:\desktop\innovation task\Form.core\obj\Debug\net5.0\StuForm.DAL.genruntimeconfig.cache

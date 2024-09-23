@@ -1,0 +1,222 @@
+﻿@model StudentViewModel
+ @{
+    ViewData["Title"] = "Login";
+    Layout = "_LayoutForCreateStudent";
+} 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Form</title>
+    <link rel="stylesheet" href="~/css/StyleSheet.css"/>
+</head>
+<body>
+
+    <div class="form-container">
+        <h1>Add Student</h1>
+        <form id="studentForm">
+            <label for="name">Name:</label>
+            <input  id="name" asp-for="Name" placeholder="enter your name" required>
+
+            <label for="dob">Date of Birth:</label>
+            <input id="name" asp-for="Name"  required>
+
+            <label for="email">Email:</label>
+            <input id="name" asp-for="Name" placeholder="write your email" required>
+
+            <label for="address">Address:</label>
+            <input id="name" asp-for="Address" placeholder="write your Address" required>
+
+            <label  for="subjects" asp-for="StudentSubjects">Subjects:</label>
+            @* <div class="checkbox-group">
+                <label><input type="checkbox" name="subjects" asp-for="StudentSubjects" value="Math"> Math</label>
+                <label><input type="checkbox" name="subjects" asp-for="StudentSubjects" value="Science"> Science</label>
+                <label><input type="checkbox" name="subjects" asp-for="StudentSubjects" value="English"> English</label>
+                <label><input type="checkbox" name="subjects" asp-for="StudentSubjects" value="History"> History</label>
+                <label><input type="checkbox" name="subjects" asp-for="StudentSubjects" value="Arabic"> Arabic</label>
+            </div>
+ *@
+            <button type="submit" asp-controller="Home" asp-action="Index">Add Student</button>
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+
+
+   @*   <script>
+        document.getElementById('studentForm').addEventListener('submit', function(event) {
+            let isValid = true;
+
+            // Name validation
+            const name = document.getElementById('name').value;
+            const nameError = document.getElementById('nameError');
+            const nameRegex = /^[a-zA-Z\s]*$/; // Only letters and spaces allowed
+            if (!nameRegex.test(name)) {
+                nameError.textContent = "Name contains numbers or special characters";
+                isValid = false;
+            } else {
+                nameError.textContent = "";
+            }
+
+            // Date of Birth validation (Age must be more than 15 years)
+            const dob = new Date(document.getElementById('dob').value);
+            const dobError = document.getElementById('dobError');
+            const today = new Date();
+            const age = today.getFullYear() - dob.getFullYear();
+            const monthDiff = today.getMonth() - dob.getMonth();
+            if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < dob.getDate())) {
+                age--;
+            }
+            if (age < 15) {
+                dobError.textContent = "Student's age must be more than 15 years";
+                isValid = false;
+            } else {
+                dobError.textContent = "";
+            }
+
+            // Email validation (HTML email type will validate by default)
+            const emailError = document.getElementById('emailError');
+            const email = document.getElementById('email').value;
+            const emailRegex = /^[^\s]+[^\s]+\.[^\s]+$/;
+            if (!emailRegex.test(email)) {
+                emailError.textContent = "Invalid email address";
+                isValid = false;
+            } else {
+                emailError.textContent = "";
+            }
+
+            // Subjects validation (Select up to 2 subjects)
+            const selectedSubjects = document.querySelectorAll('input[name="subjects"]:checked');
+            const subjectsError = document.getElementById('subjectsError');
+            if (selectedSubjects.length > 2) {
+                subjectsError.textContent = "You can only select up to 2 subjects";
+                isValid = false;
+            } else {
+                subjectsError.textContent = "";
+            }
+
+            // If not valid, prevent form submission
+            if (!isValid) {
+                event.preventDefault();
+            }
+        });
+    </script> *@
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* <form asp-action="Create">
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" id="name" />
+        <span id="nameError"></span>
+    </div>
+
+    <div>
+        <label>Date of Birth</label>
+        <input asp-for="Date_Of_Birth" id="dob" />
+        <span id="dobError"></span>
+    </div>
+
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" id="email" />
+        <span id="emailError"></span>
+    </div>
+
+
+    <div>
+        <p>Subjects : </p>
+      
+        <ul>
+            <li>
+                <label>
+                    <input type="checkbox">
+                    Arabic
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="checkbox" checked>
+                    English
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="checkbox" checked>
+                    Sciences
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="checkbox">
+                    History
+                </label>
+            </li>
+        </ul>
+        <span id="subjectError"></span>
+    </div>
+
+    <button type="submit">Add Student</button>
+
+</form>
+
+<script>
+    document.getElementById('name').addEventListener('input', function () {
+        var name = this.value;
+        var nameError = document.getElementById('nameError');
+        var regex = /^[a-zA-Z\s]*$/;
+        if (!regex.test(name)) {
+            nameError.textContent = "Name contains numbers or special characters.";
+        } else {
+            nameError.textContent = "";
+        }
+    });
+
+    document.getElementById('dob').addEventListener('input', function () {
+        var dob = new Date(this.value);
+        var age = new Date().getFullYear() - dob.getFullYear();
+        var dobError = document.getElementById('dobError');
+        if (age < 15) {
+            dobError.textContent = "Student's age must be more than 15 years.";
+        } else {
+            dobError.textContent = "";
+        }
+    });
+
+    document.getElementById('email').addEventListener('input', function () {
+        var email = this.value;
+        var emailError = document.getElementById('emailError');
+        var emailRegex = /^[a-zA-Z0-9._-]+[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+        if (!emailRegex.test(email)) {
+            emailError.textContent = "Invalid email.";
+        } else {
+            emailError.textContent = "";
+        }
+    });
+
+    document.getElementById('subjects').addEventListener('change', function () {
+        var selected = Array.from(this.selectedOptions).length;
+        var subjectError = document.getElementById('subjectError');
+        if (selected > 2) {
+            subjectError.textContent = "You can select up to 2 subjects only.";
+        } else {
+            subjectError.textContent = "";
+        }
+    });
+</script>
+
+ *@

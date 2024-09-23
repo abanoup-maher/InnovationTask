@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\desktop\\innovation task\\innovation_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|d:\\desktop\\innovation task\\innovation_task\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|solutionrelative:views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|d:\\desktop\\innovation task\\innovation_task\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|d:\\desktop\\innovation task\\innovation_task\\mapper\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|solutionrelative:mapper\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|d:\\desktop\\innovation task\\innovation_task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|d:\\desktop\\innovation task\\innovation_task\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|solutionrelative:models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|d:\\desktop\\innovation task\\innovation_task\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE74230-EC87-4C5B-B9FA-2BF826A3B85E}|..\\Form.core\\StuForm.DAL.csproj|d:\\desktop\\innovation task\\form.core\\context\\innovationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|d:\\desktop\\innovation task\\innovation_task\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|solutionrelative:wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|d:\\desktop\\innovation task\\innovation_task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1018C44D-155E-4A52-A5E1-3CC2DB6E2364}|innovation_task.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\repositories\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\repositories\\subjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\interfaces\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE74230-EC87-4C5B-B9FA-2BF826A3B85E}|..\\Form.core\\StuForm.DAL.csproj|d:\\desktop\\innovation task\\form.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F167286-C4C0-4F69-B6E3-EEBBA6CAF0D0}|..\\StuForm.Repository\\StuForm.BLL.csproj|d:\\desktop\\innovation task\\stuform.repository\\stuform.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE74230-EC87-4C5B-B9FA-2BF826A3B85E}|..\\Form.core\\StuForm.DAL.csproj|d:\\desktop\\innovation task\\form.core\\configurations\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE74230-EC87-4C5B-B9FA-2BF826A3B85E}|..\\Form.core\\StuForm.DAL.csproj|d:\\desktop\\innovation task\\form.core\\configurations\\subjectsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE74230-EC87-4C5B-B9FA-2BF826A3B85E}|..\\Form.core\\StuForm.DAL.csproj|d:\\desktop\\innovation task\\form.core\\entities\\studentsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE74230-EC87-4C5B-B9FA-2BF826A3B85E}|..\\Form.core\\StuForm.DAL.csproj|d:\\desktop\\innovation task\\form.core\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\innovation_task\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\innovation_task\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIA8wCEAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:47:28.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\innovation_task\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\innovation_task\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA+wB0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:52:41.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\innovation_task\\Mapper\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\StudentProfile.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\innovation_task\\Mapper\\StudentProfile.cs",
+              "RelativeToolTip": "Mapper\\StudentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:12:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\innovation_task\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "D:\\desktop\\innovation task\\innovation_task\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T23:34:23.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\innovation_task\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Add.cshtml",
+              "ToolTip": "D:\\desktop\\innovation task\\innovation_task\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T23:06:30.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InnovationDbContext.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\Form.core\\Context\\InnovationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Form.core\\Context\\InnovationDbContext.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\Form.core\\Context\\InnovationDbContext.cs",
+              "RelativeToolTip": "..\\Form.core\\Context\\InnovationDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:31:40.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\innovation_task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\desktop\\innovation task\\innovation_task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T15:24:15.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\innovation_task\\Models\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentViewModel.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\innovation_task\\Models\\StudentViewModel.cs",
+              "RelativeToolTip": "Models\\StudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:56:24.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\innovation_task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\desktop\\innovation task\\innovation_task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T15:25:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "..\\StuForm.Repository\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:12:30.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubjectRepo.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\Repositories\\SubjectRepo.cs",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\Repositories\\SubjectRepo.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\Repositories\\SubjectRepo.cs",
+              "RelativeToolTip": "..\\StuForm.Repository\\Repositories\\SubjectRepo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:49:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Isubject.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\Interfaces\\Isubject.cs",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\Interfaces\\Isubject.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\Interfaces\\Isubject.cs",
+              "RelativeToolTip": "..\\StuForm.Repository\\Interfaces\\Isubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:25:20.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Istudent.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\Interfaces\\Istudent.cs",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\Interfaces\\Istudent.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\Interfaces\\Istudent.cs",
+              "RelativeToolTip": "..\\StuForm.Repository\\Interfaces\\Istudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:09:40.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\Repositories\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\Repositories\\GenericRepo.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\Repositories\\GenericRepo.cs",
+              "RelativeToolTip": "..\\StuForm.Repository\\Repositories\\GenericRepo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:12:41.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOFWork.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\Interfaces\\IUnitOFWork.cs",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\Interfaces\\IUnitOFWork.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\Interfaces\\IUnitOFWork.cs",
+              "RelativeToolTip": "..\\StuForm.Repository\\Interfaces\\IUnitOFWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:23:05.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "studentRepo.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\Repositories\\studentRepo.cs",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\Repositories\\studentRepo.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\Repositories\\studentRepo.cs",
+              "RelativeToolTip": "..\\StuForm.Repository\\Repositories\\studentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:49:28.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\Form.core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Form.core\\Entities\\Student.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\Form.core\\Entities\\Student.cs",
+              "RelativeToolTip": "..\\Form.core\\Entities\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwBEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:10:49.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\StuForm.Repository\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:27:08.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StuForm.BLL.csproj",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\StuForm.Repository\\StuForm.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\StuForm.Repository\\StuForm.BLL.csproj",
+              "ToolTip": "D:\\desktop\\innovation task\\StuForm.Repository\\StuForm.BLL.csproj",
+              "RelativeToolTip": "..\\StuForm.Repository\\StuForm.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T21:09:06.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentSubject.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\Form.core\\Entities\\StudentSubject.cs",
+              "RelativeDocumentMoniker": "..\\Form.core\\Entities\\StudentSubject.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\Form.core\\Entities\\StudentSubject.cs",
+              "RelativeToolTip": "..\\Form.core\\Entities\\StudentSubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:16:30.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SubjectsConfig.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\Form.core\\Configurations\\SubjectsConfig.cs",
+              "RelativeDocumentMoniker": "..\\Form.core\\Configurations\\SubjectsConfig.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\Form.core\\Configurations\\SubjectsConfig.cs",
+              "RelativeToolTip": "..\\Form.core\\Configurations\\SubjectsConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:33:14.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentConfig.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\Form.core\\Configurations\\StudentConfig.cs",
+              "RelativeDocumentMoniker": "..\\Form.core\\Configurations\\StudentConfig.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\Form.core\\Configurations\\StudentConfig.cs",
+              "RelativeToolTip": "..\\Form.core\\Configurations\\StudentConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:32:51.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\desktop\\innovation task\\Form.core\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "..\\Form.core\\Entities\\Subject.cs",
+              "ToolTip": "D:\\desktop\\innovation task\\Form.core\\Entities\\Subject.cs",
+              "RelativeToolTip": "..\\Form.core\\Entities\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:13:36.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

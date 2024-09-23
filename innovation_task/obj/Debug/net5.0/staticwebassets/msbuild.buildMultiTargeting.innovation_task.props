@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\innovation_task.props" />
+</Project>
